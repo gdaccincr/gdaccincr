@@ -3,9 +3,12 @@
 ## I'm a Low-level developer.
 
 
-- Languages:C, C++, Rust
+- Languages: C, C++, Rust
 - Automatisation: Bash, Python
 - Other: Docker, LLVM, Bun
+
+- Currently learning ARM architecture
+- Also, developing an tiny projects
 <!--
 **gdaccincr/gdaccincr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
