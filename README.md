@@ -3,9 +3,9 @@
 # I'm a Low-level developer.
 
 
-# Languages:C, C++, Rust
-# Automatisation: Bash, Python
-# Other: Docker, LLVM, Bun
+- Languages:C, C++, Rust
+- Automatisation: Bash, Python
+- Other: Docker, LLVM, Bun
 <!--
 **gdaccincr/gdaccincr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
