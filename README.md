@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# I'm a Low-level developer.
+## I'm a Low-level developer.
 
 
 - Languages:C, C++, Rust
